@@ -1,0 +1,7 @@
+Git help clone (or any command) to get help
+Lorem Ipsum
+"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
+"There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain..."
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum volutpat ipsum eget arcu bibendum, at ultrices lacus commodo. Vivamus dictum, leo a lobortis imperdiet, est velit imperdiet urna, ac ullamcorper purus neque sed mauris. Pellentesque ut odio in sapien gravida dictum. Fusce ut maximus lorem. Nam quis placerat erat. In tristique ut ante eu mollis. Etiam nibh elit, iaculis in nisi in, efficitur eleifend mi. In hac habitasse platea dictumst.
+
+Fusce porta in tortor nec blandit. Aenean in blandit nunc. Aliquam consequat enim ligula, sit amet hendrerit sapien feugiat a. Phasellus in mattis mi. Integer vel pharetra libero, eu eleifend mi. Sed sagittis ipsum vel turpis efficitur lobortis. Aenean ac mauris sagittis, finibus turpis ut, vestibulum nunc. Proin vestibulum vitae felis eget fermentum. Aenean nec malesuada erat, vel varius nisl.
